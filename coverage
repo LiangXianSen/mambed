@@ -1,0 +1,15 @@
+ok      github.com/LiangXianSen/mambed  35.071s coverage: 65.8% of statements
+github.com/LiangXianSen/mambed/mambed.go:53:    Run                     80.0%
+github.com/LiangXianSen/mambed/mambed.go:71:    Insert                  100.0%
+github.com/LiangXianSen/mambed/mambed.go:84:    batchInsert             40.0%
+github.com/LiangXianSen/mambed/mambed.go:105:   Commit                  75.0%
+github.com/LiangXianSen/mambed/mambed.go:135:   JobChLength             100.0%
+github.com/LiangXianSen/mambed/mambed.go:140:   ChannelLength           0.0%
+github.com/LiangXianSen/mambed/mambed.go:145:   SetConsumingLength      0.0%
+github.com/LiangXianSen/mambed/mambed.go:154:   waitJobProcess          60.0%
+github.com/LiangXianSen/mambed/mambed.go:184:   cleanCKJob              100.0%
+github.com/LiangXianSen/mambed/mambed.go:191:   Done                    100.0%
+github.com/LiangXianSen/mambed/mambed.go:198:   Close                   100.0%
+github.com/LiangXianSen/mambed/mambed.go:203:   Consume                 66.7%
+github.com/LiangXianSen/mambed/mambed.go:213:   NewMambed               62.5%
+total:                                          (statements)            65.8%
